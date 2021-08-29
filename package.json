@@ -1,0 +1,21 @@
+{
+  "name": "day-blocks",
+  "version": "1.0.0",
+  "description": "Doodle for scheduling daily tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nothke/day-blocks.git"
+  },
+  "author": "nothke",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jquery": "^3.5.6"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
